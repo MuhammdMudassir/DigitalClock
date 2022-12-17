@@ -1,0 +1,20 @@
+body {
+    background-color: #333;
+    background-image: url('https://user-images.githubusercontent.com/24233321/74650784-71927280-51a8-11ea-8ce8-5eb41e225960.png');
+    color: #fff;
+
+  } 
+  .container {
+    margin-top: 25vh;
+    display: flex;
+    justify-content: center;
+  }
+  .clock2 { 
+    font-size: 2em;
+    background-color: #000;
+    border: 2px solid #140D04;
+    border-radius: 10px;
+    box-shadow: 3px 6px 3px #1119;
+    color: #fff;
+    padding: 2.8em 1em;
+  }
